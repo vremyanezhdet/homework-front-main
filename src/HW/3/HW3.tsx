@@ -24,8 +24,7 @@ export const HW3 = () => {
       setTexts (prevTexts => [...prevTexts,currentText]);
       setCurrentText('')
     }
-    // ЗАСЕТАТЬ БЫ ТЕКСТ В texts И НЕ ПОТЕРЯТЬ НАПУТСТВИЕ ИЗ ПРОШЛОГО ВЕКА)
-    // А ЗАТЕМ УБРАТЬ ЗА СОБОЙ В currentText
+
   };
 
   return (
